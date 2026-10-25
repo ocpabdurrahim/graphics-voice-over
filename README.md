@@ -69,3 +69,7 @@ Made for translated videos: translate the captions first (with [Graphics Transla
 Full guide inside the zip: `README.txt`.
 
 **Trial and license:** everything works for 7 days from the first time you open the panel. Then type your name in Settings > License and click **Buy on WhatsApp** (or send your PC code) to **01912-007750 (+880 1912-007750)** to buy a lifetime license for that PC. Graphics Translator keys do not unlock this panel; it has its own.
+
+---
+
+**More Premiere Pro plugins:** [Graphics Translator](https://github.com/ocpabdurrahim/graphics-translator) (translates text graphics) • [Project Sync](https://github.com/ocpabdurrahim/project-sync) (keeps bins and folders in sync) • [Align & Distribute](https://github.com/ocpabdurrahim/align-and-distribute) (lines up text graphics) • [Word Colors](https://github.com/ocpabdurrahim/word-colors) (colors time words in text graphics)
